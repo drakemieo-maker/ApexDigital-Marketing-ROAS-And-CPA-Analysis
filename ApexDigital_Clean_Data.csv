@@ -1,0 +1,13 @@
+Log_ID,Log_Date,Campaign_ID,Impressions,Clicks,Ad_Spend_USD,Conversions,Revenue_Generated_USD,Net_Ad_Profit_USD,Campaign_Name,Platform,Target_Region,Campaign_Objective
+L01,2026-10-01,CMP01,45000,1800,1200.00,90,5400.00,4200.00,"Summer SaaS Trial Push","Google Search","North America","Lead Generation"
+L02,2026-10-01,CMP02,250000,8500,3000.00,15,750.00,-2250.00,"Viral Gen-Z Video Dance","TikTok Ads","North America","Brand Awareness"
+L03,2026-10-01,CMP03,30000,1500,800.00,110,6600.00,5800.00,"Retargeting Cart Abandoners","Meta Ads","UK & Europe","Direct Sales"
+L04,2026-10-01,CMP04,120000,2200,4500.00,25,1500.00,-3000.00,"Tech Reviewer Sponsorship",YouTube,"North America","Product Launch"
+L05,2026-10-01,CMP05,80000,3200,600.00,85,2550.00,1950.00,"Broad Lookalike Audience","Meta Ads","West Africa","Direct Sales"
+L06,2026-10-01,CMP06,35000,1400,950.00,75,4500.00,3550.00,"Competitor Keyword Bidding","Google Search","UK & Europe","Direct Sales"
+L07,2026-10-15,CMP01,50000,2100,1400.00,105,6300.00,4900.00,"Summer SaaS Trial Push","Google Search","North America","Lead Generation"
+L08,2026-10-15,CMP02,310000,9200,3500.00,12,600.00,-2900.00,"Viral Gen-Z Video Dance","TikTok Ads","North America","Brand Awareness"
+L09,2026-10-15,CMP03,32000,1650,850.00,125,7500.00,6650.00,"Retargeting Cart Abandoners","Meta Ads","UK & Europe","Direct Sales"
+L10,2026-10-15,CMP04,95000,1800,4500.00,20,1200.00,-3300.00,"Tech Reviewer Sponsorship",YouTube,"North America","Product Launch"
+L11,2026-10-15,CMP05,90000,3600,700.00,95,2850.00,2150.00,"Broad Lookalike Audience","Meta Ads","West Africa","Direct Sales"
+L12,2026-10-15,CMP06,40000,1600,1100.00,88,5280.00,4180.00,"Competitor Keyword Bidding","Google Search","UK & Europe","Direct Sales"
